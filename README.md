@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🤡 Funny code you will learn
+
+![Every Day CMD](https://pyocean.com/every_day_cmd/png)
